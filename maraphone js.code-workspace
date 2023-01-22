@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/maraphone js"
+		},
+		{
+			"path": "../../Downloads/marathon-urok-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "marathon-urok-1"
+	}
+}
